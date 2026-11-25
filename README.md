@@ -6,13 +6,7 @@
 
 ![主界面](docs/screenshots/main.png)
 
-## 发布短片
-
-[![发布短片](docs/screenshots/video_cover.png)](docs/LyricsBar_release.mp4)
-
-▶ [观看《LyricsBar · 发布短片》（91 秒，含《暖暖》演示）](docs/LyricsBar_release.mp4)
-
-脚本与分镜见 [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)。
+(docs/screenshots/video_cover.png)](docs/LyricsBar_release.mp4)
 
 ## 亮点
 
