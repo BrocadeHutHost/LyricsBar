@@ -4,6 +4,8 @@
 
 > 代码由 AI 辅助创作，配套发布视频全部由 AI 生成。
 
+仓库：<https://github.com/BrocadeHutHost/LyricsBar> · 成品下载：[Releases](https://github.com/BrocadeHutHost/LyricsBar/releases)
+
 ![主界面](docs/screenshots/main.png)
 
 ## 发布短片
