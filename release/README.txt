@@ -29,4 +29,4 @@ Covers\         专辑封面缓存
 代码由 AI 辅助创作，配套发布视频全部由 AI 生成。
 歌词与封面来自公开搜索接口，仅用于个人学习与本地播放。
 
-MIT License
+GPLv2 License（GNU General Public License v2.0）

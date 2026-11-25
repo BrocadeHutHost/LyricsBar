@@ -19,7 +19,7 @@ BEGIN
       VALUE "OriginalFilename", "LyricsBar.exe"
       VALUE "ProductName", "LyricsBar"
       VALUE "ProductVersion", "1.0.0.0"
-      VALUE "LegalCopyright", "MIT License"
+      VALUE "LegalCopyright", "GPL-2.0-or-later"
     END
   END
   BLOCK "VarFileInfo"

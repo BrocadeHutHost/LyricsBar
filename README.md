@@ -12,7 +12,7 @@
 
 [![发布短片](docs/screenshots/video_cover.png)](docs/LyricsBar_release.mp4)
 
-▶ [观看《LyricsBar · 发布短片》（94 秒，AI 配音，含《暖暖》演示）](docs/LyricsBar_release.mp4)
+▶ [观看《LyricsBar · 发布短片》（98 秒，AI 配音，含《暖暖》演示）](docs/LyricsBar_release.mp4)
 
 短片开头声明：代码由 AI 辅助创作，视频全部由 AI 生成。脚本见 [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)。
 
@@ -115,4 +115,4 @@ python organize.py                     REM 同文件夹去重 + 统一命名（�
 
 ## License
 
-MIT，见 [LICENSE](LICENSE)。
+GPLv2，见 [LICENSE](LICENSE)。

@@ -2,7 +2,7 @@
 
 发布日期：2026-11-25
 平台：Windows 10 / 11 x64
-许可：MIT
+许可：GPLv2
 
 ## 交付物
 
@@ -11,13 +11,13 @@
 | `release/LyricsBar.exe` | 主程序，单文件，含图标与版本信息 |
 | `release/LyricsBar.ico` | 应用图标（16–256 多尺寸） |
 | `release/启动播放器.bat` | 双击启动 |
-| `release/LyricsBar-1.0.0-win64.zip` | 以上文件的压缩包 |
-| `docs/LyricsBar_release.mp4` | 发布短片（约 94 秒，AI 配音，含暖暖演示） |
+| `release/LyricsBar-1.0.0-win64.zip` | 以上文件的压缩包（387 KB） |
+| `docs/LyricsBar_release.mp4` | 发布短片（约 98 秒，AI 配音，含暖暖演示，片尾附仓库地址） |
 
 校验值（SHA-256）：
 
 ```
-8f996e7dedac609007fe92878b46a2dff5b22fd2bf01ef35105378160a2e083c  LyricsBar.exe
+5cde0ee2ca67c40c6fc4b26aa41c45ba29035bff38e981bf6dc7b0076e9ed435  LyricsBar.exe
 ```
 
 ## 本版内容
@@ -50,6 +50,6 @@
 
 ## 说明
 
-- 代码由 AI 辅助创作；发布视频的文案、配音、画面与剪辑全部由 AI 生成。
+- 代码由 AI 辅助创作，按 GPLv2 发布；发布视频的文案、配音、画面与剪辑全部由 AI 生成。
 - 歌词与封面来自公开搜索接口，仅用于个人学习与本地播放。
 - 演示曲目《暖暖》版权归原权利人所有，视频中仅作功能演示。
