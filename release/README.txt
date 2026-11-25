@@ -26,7 +26,6 @@ Covers\         专辑封面缓存
 后台播放工作集约 5 MB，CPU 占用 < 1%，单文件约 0.5 MB。
 
 【说明】
-代码由 AI 辅助创作，配套发布视频全部由 AI 生成。
 歌词与封面来自公开搜索接口，仅用于个人学习与本地播放。
 
 GPLv2 License（GNU General Public License v2.0）

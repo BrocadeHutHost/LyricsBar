@@ -2,8 +2,6 @@
 
 **极低内存的 Windows 本地音乐播放器。** 原生 C++ / Win32 / GDI 自绘，后台播放常驻内存约 **5 MB**，单文件绿色版，双击即用。
 
-> 代码由 AI 辅助创作，配套发布视频全部由 AI 生成。
-
 仓库：<https://github.com/BrocadeHutHost/LyricsBar> · 成品下载：[Releases](https://github.com/BrocadeHutHost/LyricsBar/releases)
 
 ![主界面](docs/screenshots/main.png)
@@ -12,9 +10,9 @@
 
 [![发布短片](docs/screenshots/video_cover.png)](docs/LyricsBar_release.mp4)
 
-▶ [观看《LyricsBar · 发布短片》（98 秒，AI 配音，含《暖暖》演示）](docs/LyricsBar_release.mp4)
+▶ [观看《LyricsBar · 发布短片》（91 秒，含《暖暖》演示）](docs/LyricsBar_release.mp4)
 
-短片开头声明：代码由 AI 辅助创作，视频全部由 AI 生成。脚本见 [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)。
+脚本与分镜见 [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md)。
 
 ## 亮点
 
