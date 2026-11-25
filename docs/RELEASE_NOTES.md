@@ -11,17 +11,18 @@
 | `release/LyricsBar.exe` | 主程序，单文件，含图标与版本信息 |
 | `release/LyricsBar.ico` | 应用图标（16–256 多尺寸） |
 | `release/启动播放器.bat` | 双击启动 |
-| `release/LyricsBar-1.0.0-win64.zip` | 以上文件的压缩包（387 KB） |
+| `release/LyricsBar-1.0.0-win64.zip` | 以上文件的压缩包（388 KB） |
 | `docs/LyricsBar_release.mp4` | 发布短片（约 91 秒，含暖暖演示，片尾附仓库地址） |
 
 校验值（SHA-256）：
 
 ```
-5cde0ee2ca67c40c6fc4b26aa41c45ba29035bff38e981bf6dc7b0076e9ed435  LyricsBar.exe
+e5fe631d111d5a2c0b1e2bf8bf27bd24238aff1d183653daa447c46cf9515221  LyricsBar.exe
 ```
 
 ## 本版内容
 
+- 修复文件夹选择框点击目录时误跳到磁盘列表的问题（目录参数悬空引用）。
 - 原生 C++ / Win32 / GDI，2 倍超采样 + 双缓冲，无闪烁、无锯齿。
 - 曲目库：播放源分组、单击切歌、滚轮翻页、当前曲目高亮。
 - 播放源切换：切到某文件夹后，播放与上一首/下一首都限定在该文件夹。

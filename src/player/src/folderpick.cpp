@@ -32,8 +32,9 @@ static bool s_pkClass = false;
 
 enum { PB_CLOSE = 1, PB_UP, PB_DRIVES, PB_CANCEL, PB_OK };
 
-static void LoadDir(const std::wstring& dir)
+static void LoadDir(const std::wstring& dirIn)
 {
+    std::wstring dir = dirIn;
     s_pk.cwd = dir;
     s_pk.names.clear();
     s_pk.paths.clear();
