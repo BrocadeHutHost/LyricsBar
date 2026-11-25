@@ -1,0 +1,9 @@
+*.obj
+*.res
+*.log
+*.ini
+tmp/
+tmp_*/
+__pycache__/
+*.pyc
+.vs/
